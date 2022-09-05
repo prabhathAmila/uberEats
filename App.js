@@ -5,6 +5,7 @@ import Home from './screens/Home';
 const uberEats = () => {
   return (
     <View>
+      
       <Home/>
     </View>
   )
